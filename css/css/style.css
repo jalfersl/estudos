@@ -1,10 +1,21 @@
+body{
+    background-image: url("https://images6.fanpop.com/image/photos/37800000/Jupiter-Wallpaper-amazing-space-37899127-2560-1600.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 header{
     padding: 20px;
-    background: #eee;
+    background: rgba(238, 238, 238, 0.58);
     border-radius: 10px;
 }
 header h1{
     font-weight: bold;
+    border-color: #69147f;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 5px;
+    padding: 5px;
 }
 header h4{
     font-size: 20px;
@@ -13,9 +24,9 @@ header h4{
 .list{
     margin-top:10px;
     padding: 20px;
-    background: #eee;
+    background: rgba(238, 238, 238, 0.58);
     border-radius: 10px;
 }
 .list li{
-    color: green;
+    color: #000000;
 }
