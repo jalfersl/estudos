@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cadastro da liga dos astronautas</title>
+    <style>
+        .content{
+            padding: 20px
+        }
+        div{
+            padding: 5px;
+        }
+        label{
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+<body>
+<div class="content">
+    <h1>Cadastro da liga dos astronautas</h1>
+    <form>
+        <div>
+            <label for="name">Nome:</label>
+            <input name="nome" autocomplete="Nome">
+        </div>
+        <div>
+            <label for="">Email:</label>
+            <input type="email" name="email" autocomplete="email" id="email">
+            <label>Senha:</label>
+            <input type="password" autocomplete="current-password" name="senha" id="current-password">
+        </div>
+        <div>
+            <label for="">Data de Nascimento:</label>
+            <input type="date" name="date" autocomplete="date" id="date">
+            <label for="">Foto:</label>
+            <input type="file" name="anexo" id="anexo">
+        </div>
+        <div>
+            <label for="">Nacionalidade:</label>
+            <select name="nacionalidade">
+                <option value="Russo">Russo</option>
+                <option value="Americado">Americano</option>
+                <option value="Brasileiro">Brasileiro</option>
+            </select>
+            <label for="">Genero:</label>
+            <label for="female">F</label>
+            <input type="radio" value="female" id="female">
+            <label for="male">M</label>
+            <input type="radio" value="male" id="male">
+        </div>
+        <div>
+            <label for="">Suas Principais Qualidades</label><br>
+            <label for="">Inteligênte</label>
+            <input type="checkbox" name="" id="1"> |
+            <label for="">Resiliência</label>
+            <input type="checkbox" name="" id="2"> |
+            <label for="">Preparo Físico</label>
+            <input type="checkbox" name="" id="3"> |
+            <label for="">Educacao</label>
+            <input type="checkbox" name="" id="4"> |
+        </div>
+        <div>
+            <textarea name="textarea" id="textarea" placeholder="Porque você gostaria de ser um autrounauta?" cols="30" rows="10"></textarea>
+        </div>
+        <div>
+            <input type="submit" value="Criar">
+        </div>
+
+    </form>
+</div>
+</body>
+</html>
