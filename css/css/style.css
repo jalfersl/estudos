@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body{
+    font-family: 'Roboto', sans-serif;
     background-image: url("https://images6.fanpop.com/image/photos/37800000/Jupiter-Wallpaper-amazing-space-37899127-2560-1600.jpg");
     background-repeat: no-repeat;
     background-size: cover;
