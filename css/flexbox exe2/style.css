@@ -18,6 +18,22 @@
     justify-content: center;
     padding: 10px;
 }
+
+.logo{
+    width: 20%;
+}
+
+.buscar{
+    width: 50%;
+}
+.buscar_input{
+    width: 40%;
+}
+
+.sociais{
+    width: 30%;
+}
+
 .paragraph{
     font-size: 30px
 }
@@ -30,6 +46,7 @@
     gap: 10px;
     flex: 1 0 auto;
 }
+
 .item{
     flex-basis: 350px;
     height: 230px;

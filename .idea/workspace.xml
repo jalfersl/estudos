@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="478ee290-08f3-49c5-94fe-3731b74dd576" name="Changes" comment="exercicio base site" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/html" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EipskaAudJwppohCfqyV4Y0L62" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/jardel/treinamentos/estudos/css/flexbox exe2",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css/flexbox exe2" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/css/flexbox" />
+      <recent name="$PROJECT_DIR$/css/flexbox exe/imagens" />
+      <recent name="$PROJECT_DIR$/css/responsivo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css/responsivo/css" />
+      <recent name="$PROJECT_DIR$/css/responsivo/imagens" />
+      <recent name="$PROJECT_DIR$/css/exemplo2" />
+      <recent name="$PROJECT_DIR$/css/exemplo1" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="blog1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/estudos/css/exemplo2/blog1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/estudos/css/exemplo1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.blog1.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="478ee290-08f3-49c5-94fe-3731b74dd576" name="Changes" comment="" />
+      <created>1663088467275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663088467275</updated>
+      <workItem from="1663088468420" duration="1522000" />
+      <workItem from="1663090077830" duration="4428000" />
+      <workItem from="1663156015032" duration="1826000" />
+      <workItem from="1663239150864" duration="1257000" />
+      <workItem from="1663769341814" duration="58000" />
+      <workItem from="1663769407561" duration="677000" />
+      <workItem from="1663847916922" duration="7468000" />
+      <workItem from="1664277372081" duration="6077000" />
+      <workItem from="1664361922639" duration="3496000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1663088947691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663088947691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1663089214422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663089214422</updated>
+    </task>
+    <task id="LOCAL-00003" summary="background style">
+      <created>1663092037625</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663092037625</updated>
+    </task>
+    <task id="LOCAL-00004" summary="background style">
+      <created>1663092402006</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663092402006</updated>
+    </task>
+    <task id="LOCAL-00005" summary="seletores">
+      <created>1663093346390</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663093346390</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Google Fonts">
+      <created>1663093897149</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663093897149</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Css Responsivo">
+      <created>1663855533304</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663855533304</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Css3">
+      <created>1663855543692</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663855543692</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CSS @media">
+      <created>1664278898454</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664278898454</updated>
+    </task>
+    <task id="LOCAL-00010" summary="flexbox">
+      <created>1664279604014</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664279604014</updated>
+    </task>
+    <task id="LOCAL-00011" summary="grid">
+      <created>1664279608508</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664279608508</updated>
+    </task>
+    <task id="LOCAL-00012" summary="flex exe">
+      <created>1664281241305</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664281241305</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update flex">
+      <created>1664281249399</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664281249399</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update flex">
+      <created>1664372700309</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1664372700309</updated>
+    </task>
+    <task id="LOCAL-00015" summary="exercicio base site">
+      <created>1664372714711</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664372714711</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/html" />
+    </ignored-roots>
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="background style" />
+    <MESSAGE value="seletores" />
+    <MESSAGE value="Google Fonts" />
+    <MESSAGE value="Css Responsivo" />
+    <MESSAGE value="Css3" />
+    <MESSAGE value="CSS @media" />
+    <MESSAGE value="flexbox" />
+    <MESSAGE value="grid" />
+    <MESSAGE value="flex exe" />
+    <MESSAGE value="update flex" />
+    <MESSAGE value="exercicio base site" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio base site" />
+  </component>
+</project>
