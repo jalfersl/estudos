@@ -1,0 +1,21 @@
+$btn-color: #fa3235be;
+$btn-color-text: #fff;
+$width: 120px;
+
+.btn1{
+  background-color: $btn-color;
+  color: $btn-color-text;
+  width: $width;
+}
+.btn2{
+  background-color: $btn-color;
+  color: $btn-color-text;
+  width: $width;
+}
+
+.quadrado{
+  width: 100px;
+  height: 100px;
+  background-color:$btn-color;
+  color: $btn-color-text
+}
