@@ -1,4 +1,6 @@
 $btn-color: #fa3235be;
+$color-primary: #25a34580;
+$color-secondary: #06421580;
 $btn-color-text: #fff;
 $width: 120px;
 
@@ -17,5 +19,26 @@ $width: 120px;
   width: 100px;
   height: 100px;
   background-color:$btn-color;
-  color: $btn-color-text
+  color: $btn-color-text;
+}
+
+
+.classe1{
+  ul{
+    background-color: $color-primary;
+  }
+  li{
+    background-color: $btn-color;
+    padding: 10px 5px;
+  }
+  button{
+    background-color: $color-primary;
+    color: $btn-color-text;
+    cursor: pointer;
+
+    &:hover{
+      background-color: $color-secondary;
+      transition: 500ms
+    }
+  }
 }

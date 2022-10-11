@@ -17,4 +17,21 @@
   color: #fff;
 }
 
+.classe1 ul {
+  background-color: rgba(37, 163, 69, 0.5019607843);
+}
+.classe1 li {
+  background-color: rgba(250, 50, 53, 0.7450980392);
+  padding: 10px 5px;
+}
+.classe1 button {
+  background-color: rgba(37, 163, 69, 0.5019607843);
+  color: #fff;
+  cursor: pointer;
+}
+.classe1 button:hover {
+  background-color: rgba(6, 66, 21, 0.5019607843);
+  transition: 500ms;
+}
+
 /*# sourceMappingURL=style.css.map */
